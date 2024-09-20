@@ -5,3 +5,7 @@ Answer: Git allows for easy collaboration and version control on projects. Branc
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data Science can be applied to any field, since almost any field will need insights derived from some form of data. 
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging retains the entire history of changes while rebasing will enforce a linear history by concatenating the feature branch to the main branch.
