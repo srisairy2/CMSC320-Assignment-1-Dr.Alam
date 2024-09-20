@@ -9,3 +9,7 @@ Answer: Data Science can be applied to any field, since almost any field will ne
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging retains the entire history of changes while rebasing will enforce a linear history by concatenating the feature branch to the main branch.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my problem solving skills as well as my ability to derive meaningful insights from data.
