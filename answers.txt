@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+ Answer: Data Science can be applied to any field, since almost any field will need insights derived from some form of data. 
